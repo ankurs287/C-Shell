@@ -1,2 +1,2 @@
 # C-Shell
-Linux sehll in C
+Linux shell in C
